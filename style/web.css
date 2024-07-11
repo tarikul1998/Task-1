@@ -61,7 +61,7 @@
   margin-left: 20px;
   width: 150px;
 }
-.btn2 {
+.btn-2{
   display: inline-block;
   padding: 10px 20px;
   margin-top: 10px;
@@ -108,8 +108,7 @@ footer{
   background-image: url(/assets/handshake.jpg);
 }
 .footer-input{
-  display: flex;
-  align-items: center;
+  margin: 0 auto;;
 }
 .footer-heading{
   color: rgb(255, 255, 255);
@@ -120,6 +119,11 @@ footer{
   text-align: center;
   color: white;
   font-weight: 400;
-  padding: 19px 20px 19px 20px;
+  padding: 19px 40px 19px 40px;
   margin-right: 10px;
+
+}
+.btn-4{
+  padding: 20px;
+  display: inline-block;
 }
