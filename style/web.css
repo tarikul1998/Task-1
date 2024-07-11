@@ -1,0 +1,125 @@
+.hero-bg {
+  background-image: url(../assets/Hero-bg.png);
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-bg .banner-image {
+  width: 240.28px;
+  height: 240px;
+}
+.banner-heading {
+  font-size: 32px;
+  font-weight: 700;
+}
+.btn {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-weight: 600;
+  background-color: black;
+  margin-top: 32px;
+  margin-bottom: 32px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.heading-1 {
+  font-size: 32px;
+  font-weight: 800;
+  color: rgb(13, 19, 33);
+}
+.paragraph {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.section-width {
+  width: 1140px;
+  height: 1395px;
+  border-radius: 16px;
+  background: rgba(13, 19, 33, 0.02);
+  margin: 74px auto;
+}
+.section-heading {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.coding {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  background-color: #fff;
+  border-radius: 10px;
+}
+.coding-content img {
+  margin-left: 20px;
+  width: 150px;
+}
+.btn2 {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-top: 10px;
+  background-color: white;
+}
+.web {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+
+  border-radius: 8px;
+}
+.web-content img {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.inspo {
+  margin-top: 30px;
+  text-align: center;
+}
+.youtube-link {
+  border-radius: 16px;
+  width: 1076px;
+  height: 550px;
+}
+/* ----------------------------------------------------- */
+.skills-container{
+  display: flex;
+  gap: 24px;
+}
+.skill{
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 0 6px 50px 0 rgb(0, 0, 0, 0.06);
+}
+
+
+footer{
+  padding: 130px 230px;
+  text-align: center;
+  gap: 100px;
+  background-image: url(/assets/handshake.jpg);
+}
+.footer-input{
+  display: flex;
+  align-items: center;
+}
+.footer-heading{
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-weight: 700;
+}
+.txt-color{
+  text-align: center;
+  color: white;
+  font-weight: 400;
+  padding: 19px 20px 19px 20px;
+  margin-right: 10px;
+}
